@@ -29,3 +29,8 @@
 | `predator_defense`    | Predictive points above average per 100 possessions added on defense         |
 | `predator_total`      | Predictive points above average per 100 possessions added on both ends       |
 | `pace_impact`         | Player impact on team possessions per 48 minutes                            |
+
+#### Some of the key factors that I am looking into are: 
+### - raptor_total: how much better or worse a player makes their team when they’re on the court, relative to a league-average player (per possession value)
+### - war_total: estimates the number of wins a player contributed over a full season compared to a replacement-level player (cumulative value)
+### - predator_total: forecasted impact in future seasons
